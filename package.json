@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snaps23/express-hello-world.git"
+    "url": "git+https://github.com/yrufai/express-hello-world.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/snaps23/express-hello-world/issues"
+    "url": "https://github.com/yrufai/express-hello-world/issues"
   },
-  "homepage": "https://github.com/snaps23/express-hello-world#readme",
+  "homepage": "https://github.com/yrufai/express-hello-world#readme",
   "dependencies": {
     "express": "^4.16.3"
   }
